@@ -1,7 +1,5 @@
 # Pricing Formula 1 Race Winners: A Race Model vs. Polymarket
 
-![tests](https://github.com/aryadot/f1-race-pricing/actions/workflows/tests.yml/badge.svg)
-
 **Question.** Can a simple race model built from qualifying pace, grid position, and team reliability price F1 race winner markets as well as a prediction market trading $1M or more per race? And when qualifying reveals new information, does the market move its prices by the right amount?
 
 This mirrors the core loop of sportsbook market making: turn sports data into probabilities, test them against outcomes before trusting them, and compare them with where the market is pricing.
